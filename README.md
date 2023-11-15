@@ -1,6 +1,12 @@
 <!DOCTYPE html>
+<link href="https://fonts.cdnfonts.com/css/gt-eesti-display-trial" rel="stylesheet">
+<style>
+  body {
+     font-family: 'GT Eesti Pro Text';
+  }
+</style>
 <html>
-  <p style="font-size: 40px !important;"><b>Linkler🔗</b></p>
+  <p><b>Linkler🔗</b></p>
  <a href="https://open.spotify.com/user/zzykeijuuo3t2kpl6grmgo6gy" target="blank_">
   <img src="https://img.shields.io/badge/-Spotify-00FFAA?logo=spotify&logoColor=white&logoWidth=25"></a>
  <a href="https://steamcommunity.com/id/saturntr/" target="blank_">
