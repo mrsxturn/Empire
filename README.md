@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-  <h2><b>Linkler🔗</b></h2>
+  <h3><b>Linkler🔗</b></h3>
   
  <a href="https://open.spotify.com/user/zzykeijuuo3t2kpl6grmgo6gy" target="blank_">
   <img src="https://img.shields.io/badge/-Spotify-00FFAA?logo=spotify&logoColor=white&logoWidth=25"></a>
@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/-Instagram-FD05A0?logo=instagram&logoColor=white&logoWidth=25"></a>
  <br>
   
- <h2>Spotify Widget 🎶</h2>
+ <h3>Spotify Widget 🎶</h3>
  
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zzykeijuuo3t2kpl6grmgo6gy&cover_image=true&theme=default&show_offline=true&background_color=171717&interchange=false&bar_color=08f000)](https://github.com/kittinan/spotify-github-profile)
 </html>
