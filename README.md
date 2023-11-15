@@ -23,7 +23,7 @@
 
   <h3>Readme Card | 📜</h3>
   
-[![Saturn's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrsxturn&repo=github-readme-stats&bg_color=0B0B0B&border_color=2E2E2E&title_color=FF0051&text_color=FFF&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrsxturn&repo=github-readme-stats&bg_color=0B0B0B&border_color=2E2E2E&title_color=FF0051&text_color=FFF&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
   <h3>Spotify Widget | 🎶</h3>
@@ -31,8 +31,8 @@
    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zzykeijuuo3t2kpl6grmgo6gy&cover_image=true&theme=default&show_offline=true&border_color=2E2E2E&background_color=0B0B0B&interchange=false&bar_color=00FF51)](https://github.com/kittinan/spotify-github-profile)
 
 <hr>
-  <h3><b>Statics | 📊</b></h3>
+  <h3><b>Stats | 📊</b></h3>
     
-  ![Saturn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrsxturn&show_icons=true&icon_color=FF0051&bg_color=0B0B0B&border_color=2e2e2e&title_color=FF0051&text_color=FFF)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrsxturn&show_icons=true&icon_color=FF0051&bg_color=0B0B0B&border_color=2e2e2e&title_color=FF0051&text_color=FFF)
    
 </html>
