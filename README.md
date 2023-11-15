@@ -9,7 +9,7 @@
 <html>
   <h3><b>Statics 📊</b></h3>
   
-[![Mr.Sxturn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrsxturn&show_icons=true&icon_color=#FF0051&bg_color=#0B0B0B&)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Mr.Sxturn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrsxturn&show_icons=true&icon_color=#FF0051&bg_color=#0B0B0B)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
   
   <h3><b>Links 🔗</b></h3>
   
