@@ -20,9 +20,9 @@
 
 <hr>
 
-  <h3>Readme Card | 📜</h3>
+  <h3>Empire | 👑</h3>
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrsxturn&repo=github-readme-stats&bg_color=0B0B0B&border_color=2E2E2E&title_color=FF0051&text_color=FFF&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrsxturn&repo=Empire&bg_color=0B0B0B&show_owner=true&border_color=2E2E2E&title_color=FF0051&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
   <h3>Spotify Widget | 🎶</h3>
