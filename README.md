@@ -2,7 +2,6 @@
 <html>
   
   <h3>Welcome To | <b>Saturn Empire</b></h3>
-  <p>New Era Of Coding | <b>Our Future Beyond Limits</b></p>
 
   <h3><b>Network Links | 🔗</b></h3>
     
