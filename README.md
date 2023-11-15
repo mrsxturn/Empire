@@ -7,6 +7,9 @@
 
 <!DOCTYPE html>
 <html>
+  <h3><b>Statics 📊</b></h3>
+![MrSxturn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrsxturn&show_icons=true&bg_color=#0B0B0B)
+  
   <h3><b>Links 🔗</b></h3>
   
  <a href="https://open.spotify.com/user/zzykeijuuo3t2kpl6grmgo6gy" target="blank_">
