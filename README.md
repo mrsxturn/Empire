@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-  <h3><b>Linkler🔗</b></h3>
+  <h3><b>Links 🔗</b></h3>
   
  <a href="https://open.spotify.com/user/zzykeijuuo3t2kpl6grmgo6gy" target="blank_">
   <img src="https://img.shields.io/badge/-Spotify-00FFAA?logo=spotify&logoColor=white&logoWidth=25"></a>
