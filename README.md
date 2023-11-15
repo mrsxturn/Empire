@@ -9,7 +9,7 @@
 <html>
   <h3><b>Statics 📊</b></h3>
   
-![Saturn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrsxturn&show_icons=true&icon_color=FF0051&bg_color=0B0B0B&hide_border=true&title_color=FF0051)
+![Saturn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrsxturn&show_icons=true&icon_color=FF0051&bg_color=171717&border_color=2e2e2e&title_color=FF0051)
   
   <h3><b>Links 🔗</b></h3>
   
