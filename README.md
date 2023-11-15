@@ -15,9 +15,15 @@
    <br>
 <hr>
 
+<h3>Current Top Languages | 🔱</h3>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsxturn&bg_color=0B0B0B&border_color=2E2E2E&title_color=FF0051&text_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr>
+
   <h3>Readme Card | 📜</h3>
   
-[![Saturn's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&bg_color=0B0B0B&border_color=2E2E2E&title_color=FF0051&text_color=FFF&)](https://github.com/anuraghazra/github-readme-stats)
+[![Saturn's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&bg_color=0B0B0B&border_color=2E2E2E&title_color=FF0051&text_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
   <h3>Spotify Widget | 🎶</h3>
