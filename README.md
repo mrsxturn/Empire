@@ -1,4 +1,4 @@
-### 🔥 Activate Windows 10 | Step by step
+### 🔥 Activate Windows 10 | Step by step:
 
 1. Open **CMD** panel.
 2. Copy and paste / type "**cscript.slmg.vbs**" on **CMD** panel.
